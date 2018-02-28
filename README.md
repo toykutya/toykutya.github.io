@@ -3,9 +3,8 @@
 
 online content changes continuosly. practice aparigraha.
 
-Links to all related files, including complete poem, here
 
-<div> 
+<div text="Links to all related files, including complete poem, here">
  
  <link href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png"> </link>
  <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg"> </link>
