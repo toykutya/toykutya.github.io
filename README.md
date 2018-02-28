@@ -1,6 +1,6 @@
 
 <html>
-
+<div>
 <body> 
 
 <h1><b>online content changes continuosly. practice aparigraha.</b></h1>
@@ -30,5 +30,5 @@ Tessék, aláírásként, már megint csak Én, pedig csak azért, mert vállalo
 Az egész lényeg az elején van úgyis, Te - modorosan nagybetűvel kezdve – tudod.
 
 </body>
-
+</div>
 </html>
