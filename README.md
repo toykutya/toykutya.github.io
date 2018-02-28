@@ -1,17 +1,24 @@
 
+<html lang="en">
+
 <body> 
 
 online content changes continuosly. practice aparigraha.
 
+<head> Links to all related files, including complete poem, here </head>
 
-<div> Links to all related files, including complete poem, here
+ <ul>
+              <li><a href="bender-zs%C3%B3finak-%C3%BCzenet-20180228.png">image1</a></li>
+              <li><a href="Zoltan-david-Summerfield-National-ID-front.jpg">image2</a></li>
+              <li><a href="Egy%20toy%20kutya%20vallom%C3%A1sa.docx">word document</a></li>
+              <li><a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf">pdf document</a></li>
+ </ul>
  
  <a href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png/"> image1 </a>
  <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg/"> image2 </a>
  <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx/"> docx </a>
  <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf/"> pdf </a>
  
-</div>
 
 <em>Egy toy kutya vallomása (és egyéb grafittik)</em>
 
@@ -29,3 +36,5 @@ Tessék, aláírásként, már megint csak Én, pedig csak azért, mert vállalo
 Az egész lényeg az elején van úgyis, Te - modorosan nagybetűvel kezdve – tudod.
 
 </body>
+
+</html>
