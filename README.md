@@ -14,8 +14,9 @@
               <li><a href="Egy%20toy%20kutya%20vallom%C3%A1sa.pdf">pdf document</a></li>
  </ul>
  
+<h3>the text in its raw glory<h3>
 
-<em>Egy toy kutya vallomása (és egyéb grafittik)</em>
+<h4><em>Egy toy kutya vallomása (és egyéb grafittik)</em></h4>
 
  Kapcsolatot létesíteni a legnehezebb törekvés. Törötten érkezem eléd, megmentetni magam, üdvözölni. Már megint egoista, és megint…és ismét.
 Megismerni meddig (minőségben, nem időben értendő) tudlak, csak amíg hagyod, azt hiszem most ez örökké tartani fog, mert együtt változol az idővel, amin osztozunk. 
