@@ -6,10 +6,10 @@ online content changes continuosly. practice aparigraha.
 
 <div text="Links to all related files, including complete poem, here">
  
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png"> </link>
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg"> </link>
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx"> </link>
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf"> </link>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png"> </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg"> </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx"> </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf"> </a>
  
 </div>
 
