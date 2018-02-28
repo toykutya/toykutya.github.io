@@ -1,13 +1,16 @@
+
+<body> 
+
 online content changes continuosly. practice aparigraha.
 
-Links to all related files, including complete poem, here: 
+Links to all related files, including complete poem, here
 
 <div> 
  
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png">
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg">
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx>
- <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf">
+ <link href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png"> </link>
+ <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg"> </link>
+ <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx"> </link>
+ <link href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf"> </link>
  
 </div>
 
@@ -26,4 +29,4 @@ Egy igaz: te vagy nekem. Te vagy nekem az egyetlen: ma, ezen a héten, na, bizto
 Tessék, aláírásként, már megint csak Én, pedig csak azért, mert vállalom a fentieket, bürokrataként (mert magam nem hazuttolhatom meg). Na meg szép színes. Kivéve az arcom.
 Az egész lényeg az elején van úgyis, Te - modorosan nagybetűvel kezdve – tudod.
 
-
+</body>
