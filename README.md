@@ -4,12 +4,12 @@
 online content changes continuosly. practice aparigraha.
 
 
-<div text="Links to all related files, including complete poem, here">
+<div> Links to all related files, including complete poem, here
  
- <a href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png"> </a>
- <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg"> </a>
- <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx"> </a>
- <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf"> </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/bender-zs%C3%B3finak-%C3%BCzenet-20180228.png/"> image1 </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Zoltan-david-Summerfield-National-ID-front.jpg/"> image2 </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.docx/"> docx </a>
+ <a href="https://github.com/toykutya/toykutya.github.io/blob/master/Egy%20toy%20kutya%20vallom%C3%A1sa.pdf/"> pdf </a>
  
 </div>
 
