@@ -1,8 +1,4 @@
 
-<html>
-<div>
-<body> 
-
 <h1><b>online content changes continuosly. practice aparigraha.</b></h1>
 
 <h2> Links to all related files, including complete poem, here </h2>
@@ -29,6 +25,3 @@ Egy igaz: te vagy nekem. Te vagy nekem az egyetlen: ma, ezen a héten, na, bizto
 Tessék, aláírásként, már megint csak Én, pedig csak azért, mert vállalom a fentieket, bürokrataként (mert magam nem hazuttolhatom meg). Na meg szép színes. Kivéve az arcom.
 Az egész lényeg az elején van úgyis, Te - modorosan nagybetűvel kezdve – tudod.
 
-</body>
-</div>
-</html>
